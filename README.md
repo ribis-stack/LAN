@@ -44,7 +44,8 @@ This project simulates ARP in a LAN setup using Cisco Packet Tracer to observe h
 - The LAN was successfully configured.  
 - ARP requests and replies were exchanged when devices communicated.  
 - ARP tables showed correct IP-to-MAC mappings.  
-- Simulation mode displayed ARP packets broadcast across the LAN.  
+- Simulation mode displayed ARP packets broadcast across the LAN.
+- Video-https://github.com/ribis-stack/LAN/blob/main/Screen%20Recording%202025-09-08%20013047.mp4
 
 ---
 
