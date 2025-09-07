@@ -53,7 +53,7 @@ This project simulates ARP in a LAN setup using Cisco Packet Tracer to observe h
 - **Ciscoproject.pkt** – Cisco Packet Tracer file  
 - **Ciscoproject.pdf** – Detailed project report  
 - **Screen Recording 2025-09-08 013047.mp4** – Screen recording of the simulation  
-- **Screenshot (62).png** - Screenshot of simulation
+- **Screenshot 2025-09-08 012938.png** - Screenshot of simulation
 ---
 
 ## Author
